@@ -12,6 +12,7 @@ t = t2
 result1 = []
 result2 = []
 
+#
 len1 = len(s)
 len2 = len(t)
 
